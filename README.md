@@ -43,5 +43,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/AshishGajbhiv/AshishGajbhiv/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/AshishGajbhiv/AshishGajbhiv/output/github-contribution-grid-snake.svg)
+
 
