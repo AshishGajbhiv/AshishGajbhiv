@@ -40,3 +40,8 @@
 ---
 
 ⭐ *Actively learning, building frontend projects, and improving every day*
+
+## 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/AshishGajbhiv/AshishGajbhiv/output/github-contribution-grid-snake.svg)
+
