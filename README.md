@@ -31,6 +31,9 @@
 👉 https://ashishgajbhiv.github.io/Portfolio/
 
 ---
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AshishGajbhiv&repo=Portfolio&theme=radical)](https://github.com/AshishGajbhiv/Portfolio)
+
+---
 
 ## 📫 Connect with Me
 
