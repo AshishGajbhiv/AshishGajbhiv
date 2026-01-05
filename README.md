@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Ashish Gajbhiv
 
-<!--
-**AshishGajbhiv/AshishGajbhiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer (Fresher)  
+🎓 B.Sc. Information Technology Graduate  
+💻 Passionate about building modern, responsive web apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 🔥 Projects
+- 🎨 Portfolio Builder (React + Tailwind)
+- 🖼️ Image to PDF Converter
+- 🌐 Personal Portfolio Website
+- ☁ Weather Application
+- 🎯 Objective Tracker
+
+👉 Check my live work here:  
+🔗 https://AshishGajbhiv.github.io/Portfolio
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: www.linkedin.com/in/ashish-gajbhiv-614019253
+- 🐙 GitHub: https://github.com/AshishGajbhiv
+
+---
+
+⭐ If you like my work, consider starring my repositories!
