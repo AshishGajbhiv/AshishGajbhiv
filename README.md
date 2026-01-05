@@ -32,14 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AshishGajbhiv&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshishGajbhiv&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ashish-gajbhiv-614019253  
