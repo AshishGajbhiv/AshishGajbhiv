@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashish%20Gajbhiv&fontSize=40&fontAlignY=35)
 # Hi 👋, I'm Ashish Gajbhiv
 
 ## 🛠️ Tech Stack
