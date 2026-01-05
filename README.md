@@ -23,7 +23,7 @@
 - 🎯 Objective Tracker
 
 👉 Check my live work here:  
-🔗 https://AshishGajbhiv.github.io/Portfolio
+🔗 https://ashishgajbhiv.github.io/Portfolio/
 
 ---
 
